@@ -1,4 +1,4 @@
-# Delete from the beginning of a linked list
+# Delete from the beginning of a list
 In this problem, we have written a partial implementation of the class Linked-List that inserts elements at the start of the list. You have to write a function `delete_front` in the class that deletes element from the beginning of the linked list.
 
  Assume the initial list is ` 23 11 2 8 7 4 13`. This list will be given in the code provided in the input.
