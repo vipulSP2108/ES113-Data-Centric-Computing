@@ -5,8 +5,11 @@ This document contains important information about the course.
 `Course Information:`
 
 > Course Name  Data Centric Computing
+
 > Course Name  Data Centric Computing
+
 > Instructor
+
 > Semester  Second Semester
 ---
 
