@@ -4,13 +4,13 @@ This document contains important information about the course.
 
 `Course Information:`
 
-> Course Name  Data Centric Computing
+> Course Name: Data Centric Computing
 
-> Course Name  Data Centric Computing
+> Course Code: ES114
 
-> Instructor
+> Instructor : -
 
-> Semester  Second Semester
+> Semester : Second Semester
 ---
 
 `Course Description and Topics`
