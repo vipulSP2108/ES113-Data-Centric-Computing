@@ -1,4 +1,4 @@
-# Computing_ES112
+# ES114 Data Centric Computing
 
 This document contains important information about the course.
 
