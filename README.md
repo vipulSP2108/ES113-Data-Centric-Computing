@@ -1,4 +1,4 @@
-# ES114 Data Centric Computing
+# ES112 Data Centric Computing
 
 This document contains important information about the course.
 
@@ -6,7 +6,7 @@ This document contains important information about the course.
 
 > Course Name: Data Centric Computing
 
-> Course Code: ES114
+> Course Code: ES112
 
 > Instructor : -
 
