@@ -8,4 +8,3 @@ Course Name: Data Centric Computing
 Course Code: ES 114
 Instructor: -
 Semister: Secound Semister
-
