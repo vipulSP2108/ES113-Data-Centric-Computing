@@ -8,7 +8,7 @@ This document contains important information about the course.
 
 > Course Code: ES113
 
-> Instructor : -
+> Instructor  -
 
 > Semester : Second Semester
 ---
