@@ -1,4 +1,4 @@
-# ES113 Data Centric Computing (Introduction to DSA)
+# ES113a Data Centric Computing (Introduction to DSA)
 
 This document contains important information about the course.
 
