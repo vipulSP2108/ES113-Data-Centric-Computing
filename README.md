@@ -1,4 +1,4 @@
-# ES113 Data Centric Computing
+# ES113 Data Centric Computing (Introduction to DSA)
 
 This document contains important information about the course.
 
@@ -6,7 +6,7 @@ This document contains important information about the course.
 
 > Course Name: Data Centric Computing
 
-> Course Code: ES113
+> Course Code: ES113a
 
 > Instructor : -
 
