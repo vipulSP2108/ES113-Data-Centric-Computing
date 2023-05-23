@@ -15,7 +15,7 @@ This document contains important information about the course.
 
 `Course Description and Topics`
 
-This repository contains various assignments for the Data-centric Computing course, focused on implementing data structures like linked lists, stacks, queues, trees, and graphs in python programming languages and using them to solve problems. It also covers popular algorithms, such as sorting, searching and graph traversal. It also includes solutions made by me. 
+This repository contains various assignments for the Data-centric Computing course, focused on implementing data structures like linked lists, stacks and queues in python programming languages and using them to solve problems. It also covers popular algorithms, such as sorting, searching and graph traversal. It also includes solutions made by me. 
 
 `Assignments`
 
